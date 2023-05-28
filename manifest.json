@@ -1,0 +1,48 @@
+{
+    "name": "Money Mitan",
+    "short_name": "MoneyMitan",
+    "start_url": "https://www.moneymitan.tech/",
+    "theme_color": "#1f2001",
+    "background_color": "#f2f50a",
+    "display" : "standalone",
+    "display_override": ["window-control-overlay", "minimal-ui"],
+    
+    "icons": [
+      
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiObb6x5dH-pwTE8PaYP0vh7Qgn31qhGv7XVfepqZSxCOuhnLaiZT7rGHjtroQSncolkObPycJbVeKny6p_Oh2AALzOcsNzxBgoPNGO2CyMimHtXFq6vZhhTL-ek0gjljowbtw8Y5t3FUW2J3g7vwRU3PzjJlgm3x9gepRt3TE1kNFe_GXNsBWhYDo9/s1600/android-chrome-192x192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA6dOoqBPLf6AQ6EX_AilSS1B-CTK8p-LnVmX_0QCo729Mp1cxyLbXxNf4oOyLszZkOoPbNXHeMYeaSBRVYsK7RBx_aPTL1kMOoHQujkOEC2mj5hTriygNKKPoA9sK0Ifj9cQV5zZQ2PYq1HCAroBu5Y7aSsvvxPBtSTCrzj0AZjloovH2Hz9I1yLE/s320/android-chrome-512x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+    
+        },
+
+            {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpo34BKmLG7TaK-4miLi9mx1ihMHr7yMcMoBJMbyz-s1XnL_lFNPaLyuibIXpYSn2l1sGb4xttXicrRfpAlL8mSLrEx2iUAWtL4AZvNh5LSJ_8LlH1ZMg184xPjT3NfgPO7pQvoEbqTkXY2m9WGMczmu7xrIkZdgaEXiOGuoQdn8_negzp9MiNIESP/s1600/new%20moneymitan.png",
+          "type": "image/png",
+          "sizes": "180x180"
+        },
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpo34BKmLG7TaK-4miLi9mx1ihMHr7yMcMoBJMbyz-s1XnL_lFNPaLyuibIXpYSn2l1sGb4xttXicrRfpAlL8mSLrEx2iUAWtL4AZvNh5LSJ_8LlH1ZMg184xPjT3NfgPO7pQvoEbqTkXY2m9WGMczmu7xrIkZdgaEXiOGuoQdn8_negzp9MiNIESP/s1600/new%20moneymitan.png",
+          "type": "image/png",
+          "sizes": "32x32"
+    
+        },
+
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJwAIbvovL0LzZabCAl0cIZN_d2xxM8MajJrWGQCCyLHjygVx0pNKwBFMlqyOcGTMPs4qaNuR5EwJ4L0OJIBn0keZjHk-CEzeM-0vtziGjho3z9rNwqenHRvwGuyHVB7PIaSa-Cg3ZVz1nxeSdkHz1Hn1iyUkvsdeRuD-_ZRbugFhLxkp2PbJR34y1/s1600/favicon-16x16.png",
+          "type": "image/png",
+          "sizes": "16x16"
+    
+        }
+
+
+
+
+      ]
+    
+  }
